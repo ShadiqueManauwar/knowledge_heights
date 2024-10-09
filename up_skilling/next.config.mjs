@@ -2,7 +2,7 @@
 const nextConfig = {
     eslint:{
         ignoreBuildErros
-    }
+    },sfs
     typescript :{
         ignoreBuildErrors:true
     }
